@@ -927,4 +927,4 @@ async def keycheckC(ctx,planakeys):
     	plan.add_field(name="Key", value="▸ Is invalid 🚫", inline=False)
     await ctx.send(embed=plan)    
 
-bot.run('NzY5MDM3MTk3NzMwNzc1MDYw.X5JLsw.wL2bXn9Vk9BadCUMrdXkGlGP15g')
+bot.run('NzczOTIxODgyOTYxNDc3NjMz.X6QQ6w.dEZNQRfTGyfB63_yKDfITEerVPY')
